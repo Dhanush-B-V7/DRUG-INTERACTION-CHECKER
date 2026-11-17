@@ -1,0 +1,6 @@
+{
+  "name": "MedGraph DDI — Drug Interaction Checker",
+  "description": "Polypharmacy interaction analysis combining curated clinical pharmacology lookups with interactive Graph Neural Network (GNN) link prediction visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
